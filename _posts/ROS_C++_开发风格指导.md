@@ -1,0 +1,91 @@
+# ROS C++ 开发风格指导
+
+>我们的目的是写出整洁优雅同时也能实现功能的代码。
+
+
+## 命名类型
+- CamelCased: 所有的单词的首字母大写
+- camelCased: 第一个单词首字母小写，其他单词首字母大写
+- under_scored: 所有单词小写，单词之间以下划线“_”分割
+- ALL_CAPITALS: 所有单词大写，单词之间以下划线“_”分割
+
+## ROS包命名
+ROS包命名是 **under_scored**
+## ROS Topic和Service命名
+ROS Topic和Service命名是**under_scored**
+
+## 文件命名
+文件命名是**under_scored**
+源文件以**.cpp**
+头文件以**.h**
+文件名应该具有描述性，针对性，而不是泛泛而谈。
+实现类的源文件，其文件名应该是类名的**under_scored**形式。
+
+###库文件命名
+库文件命名符合文件命名规则
+需要注意的是：
+```
+lib_my_great_thing ## Bad
+libmy_great_thing ## Good
+```
+##类名与类型名
+类名与类型名采用**CamelCased**
+```
+class ExampleClass;
+```
+
+##函数名与方法名
+函数名与方法名采用**camelCased**, 其中参数采用 **under_scored**
+```
+int exampleMethod(int example_arg);
+```
+
+##变量名
+变量名采用**under_scored**
+
+###常量
+常量采用**ALL_CAPITALS**
+
+###成员变量
+成员变量采用**under_scored**，最后加一个小下划线
+```
+int example_int_;
+```
+###全局变量
+全局变量采用**under_scored**，在开头加个小“g”
+```
+// I tried everything else, but I really need this global variable
+int g_shutdown;
+```
+##命名空间
+命名空间采用**under_scored**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
