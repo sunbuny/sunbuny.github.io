@@ -23,8 +23,8 @@ sass:
 # Site Data
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
-title: Simple Texture
-description: "A gem-based responsive simple texture styled Jekyll theme."
+title: 断章
+description: "遍地英雄下夕烟"
 keywords: 'jekyll,theme,gem-based,blog'
 author:
   name:
@@ -35,7 +35,7 @@ author:
     - name: facebook
       url:
     - name: github
-      url: https://github.com/yizeng/jekyll-theme-simple-texture
+      url: https://github.com/sunbuny/
     - name: instagram
       url:
     - name: linkedin
@@ -47,9 +47,9 @@ author:
     - name: vk
       url:
 home:
-  section1: <h1>Simple Texutre</h1>
-  section2: <h2>A gem-based responsive simple texture styled Jekyll theme</h2>
-  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/yizeng/jekyll-theme-simple-texture" title="View on GitHub"></a></div>
+  section1: <h1>断章</h1>
+  section2: <h2>遍地英雄下夕烟</h2>
+  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/sunbuny/" title="View on GitHub"></a></div>
 blog:
   cc_license: # A link to CC License of your choice, e.g. http://creativecommons.org/licenses/by-sa/4.0/.
   cc_license_image: # An image of your CC License, e.g. /assets/images/theme/cc-by-sa.png
