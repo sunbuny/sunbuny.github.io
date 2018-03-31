@@ -56,7 +56,7 @@ redirect_from:
 |VariableBounds
 
 
-![jointmodel继承关系](/sunbuny.github.io/_data/pics  "jointmodel继承关系")
+![jointmodel继承关系](https://github.com/sunbuny/sunbuny.github.io/blob/master/_data/pics/jointmodel%E7%BB%A7%E6%89%BF%E5%85%B3%E7%B3%BB.png  "jointmodel继承关系")
 
 ## planning_scene
 
