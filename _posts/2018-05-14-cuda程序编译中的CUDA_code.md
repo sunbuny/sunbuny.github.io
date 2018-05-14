@@ -110,5 +110,5 @@ Sample flags for generation on CUDA 9 for maximum compatibility. Note the remove
 ```
 
 ## refer to
-[Matching SM architectures (CUDA arch and CUDA gencode) for various NVIDIA cards](http://arnon.dk/matching-sm-architectures-arch-and-gencode-for-various-nvidia-cards/)
-[How to specify architecture to compile CUDA code](https://codeyarns.com/2014/03/03/how-to-specify-architecture-to-compile-cuda-code/)
+- [Matching SM architectures (CUDA arch and CUDA gencode) for various NVIDIA cards](http://arnon.dk/matching-sm-architectures-arch-and-gencode-for-various-nvidia-cards/)
+- [How to specify architecture to compile CUDA code](https://codeyarns.com/2014/03/03/how-to-specify-architecture-to-compile-cuda-code/)
