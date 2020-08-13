@@ -56,6 +56,16 @@ a#pdf:hover { background: #222; }
 .job h4 { position: absolute; top: 0.35em; right: 0 }
 .job p { margin: 0.75em 0 3em 0; }
 
+.prj { position: relative; margin-bottom: 1em; padding-bottom: 1em; border-bottom: 1px solid #ccc; }
+.prj h3 { text-align: right; }
+.prj h4 { position: absolute; top: 0.35em; right: 0 }
+.prj p { margin: 0.75em 0 3em 0; }
+
+.edu { position: relative; margin-bottom: 1em; padding-bottom: 1em; border-bottom: 1px solid #ccc; }
+.edu h3 { text-align: right; }
+.edu h4 { position: absolute; top: 0.35em; right: 0 }
+
+
 .last { border: none; }
 .skills-list {  }
 .skills-list ul { margin: 0; }
