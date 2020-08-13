@@ -46,6 +46,15 @@ p.enlarge span { color: #000 }
 .first h2 { font-style: italic; }
 .last { border-bottom: 0 }
 
+video {
+    object-fit: fill;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+.vcenter {	
+    text-align: center; 
+}
 
 /* //-- section styles -- */
 
